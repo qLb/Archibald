@@ -1,9 +1,13 @@
 {
-    "name": "linen",
+    "name": "Archibald",
     "version": "0.5.0",
-    "author" : "Theme Spectre",
-    "description" : "An open-source starter theme for Ghost.",
-    "homepage" : "http://themespectre.com/linen/",
+    "author" : "qLb",
+    "description" : "An open-source starter theme for Ghost with SASS and Grunt.",
+    "homepage" : "http://github.com/qLb/Archibald",
+    "repository" : {
+	"type" : "git",
+	"url" : "git://github.com/qLb/Archibald.git"
+    }
     "devDependencies": {
     "grunt": "~0.4.1",
         "grunt-contrib-clean": "~0.5.0",
