@@ -1,12 +1,12 @@
 # Archibald - An Open Source Ghost Theme with SASS and grunt support fo robust development
 
-**Getting started!**
+## Getting started!
 
 This is a *starter theme* for Ghost, and is not intended to be used as-is on any site or blog.
 
-Archibald is a complementary up to date clone of Casper default styles and templates that can be mixed, matched, removed or refactored to create a unique Ghost themes.
+Archibald is a complementary up to date clone of Casper default styles and templates that can be mixed, matched, removed or refactored to create a unique Ghost themes using [grunt](https://github.com/gruntjs/grunt) and [libsass](https://github.com/sass/libsass).
 
-Archibald is created and maintained by *CONNECTOME*
+Archibald is created and maintained by **CONNECTOME**
 
 ## Installation
 
@@ -38,8 +38,8 @@ The *build* folder will contain the necessary theme files, and the *dist* folder
 
 ## Thanks To:
 
-* ThemeSpectre fot their linen theme which encouraged me to start this project
+* [ThemeSpectre](http://themespectre.com/) fot their [Linen](https://github.com/ThemeSpectre/Linen) theme which encouraged me to start this project
 * Themble & Eddie Machado for the Bones framework
 * HTML5 Boilerplate
 * Mono Social Icon Font
-* Ghost and Casper
+* [Ghost](https://github.com/TryGhost/Ghost) and [Casper](https://github.com/TryGhost/Casper)
