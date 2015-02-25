@@ -8,7 +8,7 @@
 	"type" : "git",
 	"url" : "git://github.com/qLb/Archibald.git"
     }
-    "devDependencies": {
+    "devDependencies" : {
     "grunt": "~0.4.1",
         "grunt-contrib-clean": "~0.5.0",
         "grunt-contrib-compress": "~0.5.1",
