@@ -1,16 +1,16 @@
-# Linen - A Starter Theme for Ghost
+# Archibald - An Open Source Ghost Theme with SASS and grunt support fo robust development
 
-**Get started making great Ghost themes with Linen!**
+**Getting started!**
 
 This is a *starter theme* for Ghost, and is not intended to be used as-is on any site or blog.
 
-Linen is a sensible collection of default styles and templates that can be mixed, matched, removed or refactored to create a unique Ghost theme.
+Archibald is a complementary up to date clone of Casper default styles and templates that can be mixed, matched, removed or refactored to create a unique Ghost themes.
 
-Linen is created and maintained by *[Theme Spectre](http://themespectre.com/linen)*
+Archibald is created and maintained by *CONNECTOME*
 
 ## Installation
 
-(More detailed installation instructions coming soon, I promise)
+(More detailed installation instructions coming soon.)
 
 ### Prerequisites
 
@@ -19,13 +19,13 @@ Linen is created and maintained by *[Theme Spectre](http://themespectre.com/line
 3. Grunt
 
 
-### Setup
+### Installation
 
 Clone (or fork) this repository into your /content/themes/ folder in Ghost.
 
-Run `npm install` in the linen directory to install grunt modules.
+Run `npm install` in the archibald directory to install grunt modules.
 
-Run `grunt` to build the Sass files, or `grunt watch` when you are ready to start themeing.
+Run `grunt` to build the Sass files, or `grunt watch` to work on your code.
 
 
 ### Build
@@ -38,6 +38,7 @@ The *build* folder will contain the necessary theme files, and the *dist* folder
 
 ## Thanks To:
 
+* ThemeSpectre fot their linen theme which encouraged me to start this project
 * Themble & Eddie Machado for the Bones framework
 * HTML5 Boilerplate
 * Mono Social Icon Font
